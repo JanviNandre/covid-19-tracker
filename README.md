@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Covid-19 tracker app using react
+
+![Screenshot](https://res.cloudinary.com/jrncloud/image/upload/v1635597962/project/Covid-19_Tracker_umyzwn.png)
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
